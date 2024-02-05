@@ -12,4 +12,5 @@ My name is Shay Youngblood. I am studying to become a web developer. Here are so
 7. Python
 8. PHP
 9. GitHub
-10. Bootstrap
+10. Tailwind
+
