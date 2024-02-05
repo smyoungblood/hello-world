@@ -13,4 +13,6 @@ My name is Shay Youngblood. I am studying to become a web developer. Here are so
 8. PHP
 9. GitHub
 10. Tailwind
+11. React
+
 
